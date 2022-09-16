@@ -55,7 +55,7 @@ Tenemos tres páginas principales:
 -   PHP
 
 ## Frameworks utilizados:
-- Bulma
+![image](https://user-images.githubusercontent.com/101201349/190742368-477874bd-e87e-4db7-af85-1931043931a6.png)
 
 ## Construido con 🛠️
 
