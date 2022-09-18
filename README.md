@@ -1,12 +1,24 @@
 # Simple Ticket
 Ejercicio CRUD realizado en PHP dentro del módulo UF1844 Programación en Entorno Servidor del Certificado de Profesionalidad de Desarrollo de Aplicaciones Web 🧰
 
+## Índice
+1. [Especificaciones](#especificaciones)
+2. [Información previa](#informacion_previa)
+3. [Comenzando](#comenzando)
+4. [Funcionamiento](#funcionamiento)
+5. [Lenguajes utilizados](#lenguajes)
+6. [Frameworks utilizados](#frameworks)
+7. [Construido con](#construido)
+8. [Autor](#autor)
+
+
+## Especificaciones <a name="especificaciones"></a>
 
 Ejercicio que debe cubrir las siguientes especificaciones:
 
 - Realizar un CRUD en PHP + MySQL con una base de datos a elegir.
 
-## Información previa ✅
+## Información previa ✅ <a name="informacion_previa"></a>
 
 ![image](https://user-images.githubusercontent.com/101201349/190729993-472d3f9d-8eab-4b76-97f6-cb72350bd512.png)
 
@@ -16,13 +28,13 @@ Ejercicio que debe cubrir las siguientes especificaciones:
  - **Proveedor**: gestiona las personas y empresas proveedoras de los servicios que generan los tickets.
  - **Concepto**: gestiona los diferentes conceptos en los que agrupar los tickets.
 
-## Comenzando 🚀
+## Comenzando 🚀 <a name="comenzando"></a>
 
 El proyecto ya está listo para ejecutar, únicamente hay que inicializar la base de datos. Para ello, dentro de la carpeta `assets` está el archivo `simpleticket.sql` para importar desde el gestor de bases de datos. Con ello nos inicializa la base de datos e inserta algunos datos de ejemplo para trabajar con la aplicación.
 
 Para arrancar la aplicación, previamente deberemos inicializar un servidor Apache y el gestor de base de datos (por ejemplo Xampp con Apache + MySQL).
 
-## Funcionamiento 🔨
+## Funcionamiento 🔨 <a name="funcionamiento"></a>
 
 Tenemos tres páginas principales:
 
@@ -48,19 +60,19 @@ Tenemos tres páginas principales:
     - Las columnas se reordenan al seleccionar la cabecera correspondiente.
 
 
-## Lenguajes:
+## Lenguajes utilizados: <a name="lenguajes"></a>
 
--   HTML
--   CSS
--   PHP
+<img src="https://img.shields.io/badge/-HTML5-014267?logo=html5&style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS3-014267?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/-PHP-014267?logo=php&style=for-the-badge">
 
-## Frameworks utilizados:
-![image](https://user-images.githubusercontent.com/101201349/190742368-477874bd-e87e-4db7-af85-1931043931a6.png)
 
-## Construido con 🛠️
+## Frameworks utilizados: <a name="frameworks"></a>
+<img src="https://img.shields.io/badge/-Bulma-015a8d?logo=bulma&style=for-the-badge">
 
-- Visual Studio Code
 
-## Autor ✒️
+## Construido con: <a name="construido"></a>
+<img src="https://img.shields.io/badge/-Visual Studio Code-0273b4?logo=visualstudiocode&style=for-the-badge">
+
+
+## Autor ✒️  <a name="autor"></a>
 
 -   **Juanma Gutiérrez** - [Juanma-Gutierrez](https://github.com/Juanma-Gutierrez)
